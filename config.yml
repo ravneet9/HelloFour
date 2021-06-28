@@ -1,0 +1,9 @@
+logging:
+  level: INFO
+  loggers:
+    org.example: DEBUG
+database:
+  driverClass: com.mysql.cj.jdbc.Driver
+  user: root
+  password: Virk@1234
+  url: jdbc:mysql://localhost:3306/ravneet
